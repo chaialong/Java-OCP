@@ -1,4 +1,4 @@
-package chapter5.localization;
+package chapter5.first.localization;
 
 import java.util.Locale;
 

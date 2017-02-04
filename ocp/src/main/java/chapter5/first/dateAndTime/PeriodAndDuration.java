@@ -1,8 +1,7 @@
-package chapter5.dateAndTime;
+package chapter5.first.dateAndTime;
 
 import java.time.Duration;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.Period;
 
 public class PeriodAndDuration {

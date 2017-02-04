@@ -1,6 +1,4 @@
-package chapter5.localization;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package chapter5.first.localization;
 
 import java.text.MessageFormat;
 import java.util.Locale;
