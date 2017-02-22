@@ -1,4 +1,4 @@
-package json;
+package interview.json;
 
 public class Reconciliation {
     public String trx_id;
